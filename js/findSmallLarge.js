@@ -9,6 +9,6 @@ console.log(numsOrd)
 let small = numsOrd[0]
 let large = numsOrd[numsOrd.length - 1]
 
-console.log(`The Smaller number in the array is = ${small}`)
-console.log(`The Larger number in the array is = ${large}`)
+console.log(`The Smallest number in the array is = ${small}`)
+console.log(`The Largest number in the array is = ${large}`)
 
