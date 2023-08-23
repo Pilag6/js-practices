@@ -1,7 +1,7 @@
-const numbers = [1,2,3,4,5,6]
+const numbers = [1, 2, 3, 4, 5, 6];
 
-numbers.length = 10
+numbers.length = 10;
 
-numbers[7] = 7
+numbers[7] = 7;
 
-console.log(numbers)
+console.log(numbers);

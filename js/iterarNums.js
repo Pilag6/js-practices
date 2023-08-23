@@ -13,5 +13,5 @@ for (let num of nums) {
 // #2 ITERAR NUMEROS DE FORMA DESCENDENTE
 
 for (let i = 20; i >= 0; i--) {
-    console.log(i)
+    console.log(i);
 }
