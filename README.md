@@ -1,6 +1,6 @@
 # js-practices
 
-## How to see all the pictures of any website in the Console of Chrome
+## How can I view all the images from any website using the Chrome Console?
 
 ```Javascript
 $$('img').forEach(img => {
