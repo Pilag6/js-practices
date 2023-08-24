@@ -1,6 +1,6 @@
-# js-practices
-
-## Exercises
+![JavaScript GitHub](https://github.com/Pilag6/js-practices/assets/79191808/1665e20e-9ecc-4f11-8229-4d6da8382b6f)
+---
+## EXERCISES
 
 ### Beginner
 
