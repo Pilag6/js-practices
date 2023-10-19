@@ -14,6 +14,7 @@
 1. [Random Numbers](https://github.com/Pilag6/js-practices/blob/main/js/randomNumbers.js)
 1. [Calculate the Factorial of a Number](https://github.com/Pilag6/js-practices/blob/main/js/factorialNum.js)
 1. [Calculate the Number of Digits and Letters in a String](https://github.com/Pilag6/js-practices/blob/main/js/numAndDigitsString.js)
+1. [Fibonacci Sequence](https://github.com/Pilag6/js-practices/blob/main/js/fibonacci.js)
 
 
 
